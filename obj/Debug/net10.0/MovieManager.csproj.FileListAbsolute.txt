@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MovieManager\bin\Debug\net10.0\MovieManager.exe
+C:\Users\User\source\repos\MovieManager\bin\Debug\net10.0\MovieManager.deps.json
+C:\Users\User\source\repos\MovieManager\bin\Debug\net10.0\MovieManager.runtimeconfig.json
+C:\Users\User\source\repos\MovieManager\bin\Debug\net10.0\MovieManager.dll
+C:\Users\User\source\repos\MovieManager\bin\Debug\net10.0\MovieManager.pdb
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\MovieManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\MovieManager.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\MovieManager.AssemblyInfo.cs
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\MovieManager.dll
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\refint\MovieManager.dll
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\MovieManager.pdb
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\MovieManager.genruntimeconfig.cache
+C:\Users\User\source\repos\MovieManager\obj\Debug\net10.0\ref\MovieManager.dll
